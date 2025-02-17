@@ -1,10 +1,12 @@
 O Amigo secreto é um jogo onde você adiciona os nomes das pessoas que irá participar do Amigo secreto e o site faz o sorteio de todos os nomes adicionados aleatoriamente.
-Além de ter acesso ao código fonte do projeto, você tmbém pode acessar esse jogo a partir do seu navegador acessando esse site "https://amigo-secreto-v2.vercel.app/", lembrando qye não precisa usar as aspas "" no seu navegador.
+Além de ter acesso ao código fonte do projeto, você tmbém pode acessar esse jogo a partir do seu navegador acessando esse site "https://amigo-secreto-v2.vercel.app/", lembrando que não precisa usar as aspas "" no seu navegador.
 Este jogo foi pensado em você que gosta de fazer um bom uso da tecnologia ao seu favor, sendo assim colocamos o passo a passo do nosso jogo como pode ser utilizado de maneira fácil e pratico!
 
 Esse jogo foi feito através do JavaScript utilizando a IDE Visual Studio Code que pode ser baixado através desse link "https://code.visualstudio.com/download", podendo ser instalado nos sistemas operacionais Windows, Linux e Mac.
 
 Segue o passo a passo.
+
+
 Nesta imagem você consegue visualizar o jogo.
 ![image](https://github.com/user-attachments/assets/a29bb1ad-7170-4b1c-8894-3af9064fed9b)
 
